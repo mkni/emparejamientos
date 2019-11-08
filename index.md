@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/mkni/emparejamientos/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Table of Contents
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1.  [Definición](#org7cc8898)
+2.  [Teorema de Hall](#org9bcd9cb)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+<a id="org7cc8898"></a>
 
-# Header 1
-## Header 2
-### Header 3
+# Definición
 
-- Bulleted
-- List
+Sea \(G\) una gráfica. Un **emparejamiento** en  \(G\) es un conjunto
+\(M\) de aristas ajenas. Decimos que el emparejamiento  \(M\) es
+**perfecto** si todo vértice de  \(G\) está en alguna arista de  \(M\).
 
-1. Numbered
-2. List
+Sea  \(G=(A,B)\) una gráfica bipartita. Dado  \(S\subseteq A\),
+denotamos con  \(N(S)\) al conjunto 
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+<a id="org9bcd9cb"></a>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Teorema de Hall
 
-### Jekyll Themes
+Sea  \(G=(A,B)\) una gráfica bipartita 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mkni/emparejamientos/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
